@@ -1,3 +1,5 @@
+// https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/langCon_apex_expressions_comments.htm
+
 // SINGLE COMMENT
 // TODO: Figure out how to comment. Start with me!
 // You got this; you're building a solid foundation!
