@@ -1,4 +1,5 @@
 // https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/langCon_apex_expressions_comments.htm
+// https://www.apexhours.com/salesforce-code-comments-best-practices/
 
 // SINGLE COMMENT
 // TODO: Figure out how to comment. Start with me!
