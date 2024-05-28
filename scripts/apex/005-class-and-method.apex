@@ -26,6 +26,6 @@ class MyClass {
 MyClass c1 = new MyClass();
 c1.sayHello();
 
-// Creating an instance of MyClass, with parameter, and calling it `c1`
+// Creating an instance of MyClass, with parameter, and calling it `c2`
 MyClass c2 = new MyClass('Luke Skywalker');
 c2.sayHello();
