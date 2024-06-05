@@ -29,5 +29,5 @@ Integer y = 1; /* This comment can wrap over multiple
 
 String greetings = 'Hello World';
 
-// Use System.debug() to write debug log to the output
+// Use System.debug() to the execution debug log.
 System.debug(greetings);
